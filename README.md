@@ -1,2 +1,1 @@
-# Greeting!
-nyan hohoi
+hi
